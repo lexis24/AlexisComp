@@ -40,7 +40,7 @@ Alexis Awossonoyi COMPAORE
 > Visualisation d'indicateurs sur les performances, la repartition et la satisfaction des ressources humaines d'une entreprise.  
 > **Outils** : Power BI, Power Querry
 
-### 🟢 [CConception d'une application de gestion de stock](#)
+### 🟢 [Conception d'une application de gestion de stock](#)
 >  Création d'une base de données permettanr d’assurer une bonne gestion des informations relatives aux clients,au stock aux commandes et aux produits.  
 > **Outils** : Accèss, VBA
 

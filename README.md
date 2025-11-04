@@ -46,6 +46,7 @@ Alexis Awossonoyi COMPAORE
 
 ### 🟢 [Conception d'une application Shiny de prédiction](#)
 > Dévelopement d'un modèle de machine learning capable de prédire l’utilisation des méthodes contraceptives à partir des données recueillies lors des enquête démographiques et de Santé du Burkina-Faso de 2021.
+> 
 > **Outils** : R (Analyse exploratoire, Regression logistique)
 
 ---

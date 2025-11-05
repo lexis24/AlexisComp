@@ -54,7 +54,7 @@ Alexis Awossonoyi COMPAORE
 ## 📫 Me contacter
 📧 **compaore24alexis24@gmail.com**  
 
-☎️ **+22663773883/+22657162066/78613995** 
+☎️ **+22663773883 +22657162066 78613995** 
 
 
 ---
